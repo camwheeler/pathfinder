@@ -1,7 +1,7 @@
 PCGVERSION:2.0
 
 # System Information
-CAMPAIGN:Pathfinder RPG for Players
+CAMPAIGN:Pathfinder RPG for Players|CAMPAIGN:Advanced Class Guide|CAMPAIGN:Advanced Player's Guide|CAMPAIGN:Pathfinder Unchained|CAMPAIGN:Ultimate Combat|CAMPAIGN:Ultimate Equipment
 VERSION:6.08.00 RC6
 ROLLMETHOD:0|EXPRESSION:0
 PURCHASEPOINTS:N
@@ -89,61 +89,65 @@ REGION:None
 SKILL:Acrobatics|OUTPUTORDER:1|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
 SKILL:Acrobatics (Perform (Dance))|OUTPUTORDER:2|
 SKILL:Appraise|OUTPUTORDER:3|
-SKILL:Bluff|OUTPUTORDER:4|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
-SKILL:Bluff (Perform (Act))|OUTPUTORDER:5|
-SKILL:Bluff (Perform (Comedy))|OUTPUTORDER:6|
-SKILL:Bluff (Perform (Sing))|OUTPUTORDER:7|
-SKILL:Bluff (Perform (String Instruments))|OUTPUTORDER:8|
-SKILL:Climb|OUTPUTORDER:9|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
-SKILL:Craft (Locks)|OUTPUTORDER:10|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]
-SKILL:Craft (Traps)|OUTPUTORDER:11|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]
-SKILL:Craft (Untrained)|OUTPUTORDER:12|
-SKILL:Diplomacy|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
-SKILL:Diplomacy (Perform (Keyboard Instruments))|OUTPUTORDER:14|
-SKILL:Diplomacy (Perform (Oratory))|OUTPUTORDER:15|
-SKILL:Diplomacy (Perform (String Instruments))|OUTPUTORDER:16|
-SKILL:Diplomacy (Perform (Wind Instruments))|OUTPUTORDER:17|
-SKILL:Disable Device|OUTPUTORDER:18|CLASSBOUGHT:[CLASS:Rogue|RANKS:2.0|COST:1|CLASSSKILL:Y]
-SKILL:Disguise|OUTPUTORDER:20|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]
-SKILL:Disguise (Perform (Act))|OUTPUTORDER:21|
-SKILL:Escape Artist|OUTPUTORDER:22|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
-SKILL:Fly|OUTPUTORDER:23|
-SKILL:Fly (Perform (Dance))|OUTPUTORDER:24|
-SKILL:Handle Animal (Perform (Percussion Instruments))|OUTPUTORDER:26|
-SKILL:Handle Animal (Perform (Wind Instruments))|OUTPUTORDER:27|
-SKILL:Heal|OUTPUTORDER:28|
-SKILL:Intimidate|OUTPUTORDER:29|
-SKILL:Intimidate (Perform (Comedy))|OUTPUTORDER:30|
-SKILL:Intimidate (Perform (Keyboard Instruments))|OUTPUTORDER:31|
-SKILL:Intimidate (Perform (Percussion Instruments))|OUTPUTORDER:32|
-SKILL:Knowledge (Dungeoneering)|OUTPUTORDER:33|CLASSBOUGHT:[CLASS:Rogue|RANKS:2.0|COST:1|CLASSSKILL:Y]
-SKILL:Knowledge (Untrained)|OUTPUTORDER:34|
-SKILL:Linguistics|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]|ASSOCIATEDDATA:Read Lips
-SKILL:Perception|OUTPUTORDER:36|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
-SKILL:Perform (Dance)|OUTPUTORDER:37|CLASSBOUGHT:[CLASS:Rogue|RANKS:3.0|COST:1|CLASSSKILL:Y]
-SKILL:Perform (Untrained)|OUTPUTORDER:38|
-SKILL:Profession (Untrained)|OUTPUTORDER:39|
-SKILL:Ride|OUTPUTORDER:40|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:N]
-SKILL:Samurai Mount|OUTPUTORDER:41|
-SKILL:Sense Motive|OUTPUTORDER:42|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]
-SKILL:Sense Motive (Perform (Oratory))|OUTPUTORDER:43|
-SKILL:Sense Motive (Perform (Sing))|OUTPUTORDER:44|
-SKILL:Sleight of Hand|OUTPUTORDER:46|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
-SKILL:Stealth|OUTPUTORDER:48|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
-SKILL:Survival|OUTPUTORDER:49|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:N]
-SKILL:Swim|OUTPUTORDER:50|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]
-SKILL:Untrained Charisma|OUTPUTORDER:51|
-SKILL:Untrained Dexterity|OUTPUTORDER:52|
-SKILL:Untrained Intelligence|OUTPUTORDER:53|
-SKILL:Untrained Strength|OUTPUTORDER:54|
-SKILL:Untrained Wisdom|OUTPUTORDER:55|
-SKILL:Untrained ~ Disable Device|OUTPUTORDER:19|
-SKILL:Untrained ~ Handle Animal|OUTPUTORDER:25|
-SKILL:Untrained ~ Linguistics|OUTPUTORDER:35|
-SKILL:Untrained ~ Sleight of Hand|OUTPUTORDER:45|
-SKILL:Untrained ~ Spellcraft|OUTPUTORDER:47|
-SKILL:Untrained ~ Use Magic Device|OUTPUTORDER:56|
-SKILL:Use Magic Device|OUTPUTORDER:57|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Artistry|OUTPUTORDER:4|
+SKILL:Bluff|OUTPUTORDER:6|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Bluff (Perform (Act))|OUTPUTORDER:7|
+SKILL:Bluff (Perform (Comedy))|OUTPUTORDER:8|
+SKILL:Bluff (Perform (Sing))|OUTPUTORDER:9|
+SKILL:Bluff (Perform (String Instruments))|OUTPUTORDER:10|
+SKILL:Climb|OUTPUTORDER:11|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Consolidated Skill ~ Athletics|OUTPUTORDER:5|
+SKILL:Consolidated Skill ~ Influence|OUTPUTORDER:31|
+SKILL:Consolidated Skill ~ Performance|OUTPUTORDER:43|
+SKILL:Craft (Locks)|OUTPUTORDER:12|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Craft (Traps)|OUTPUTORDER:13|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Craft (Untrained)|OUTPUTORDER:14|
+SKILL:Diplomacy|OUTPUTORDER:15|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Diplomacy (Perform (Keyboard Instruments))|OUTPUTORDER:16|
+SKILL:Diplomacy (Perform (Oratory))|OUTPUTORDER:17|
+SKILL:Diplomacy (Perform (String Instruments))|OUTPUTORDER:18|
+SKILL:Diplomacy (Perform (Wind Instruments))|OUTPUTORDER:19|
+SKILL:Disable Device|OUTPUTORDER:20|CLASSBOUGHT:[CLASS:Rogue|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Disguise|OUTPUTORDER:22|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Disguise (Perform (Act))|OUTPUTORDER:23|
+SKILL:Escape Artist|OUTPUTORDER:24|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Fly|OUTPUTORDER:25|
+SKILL:Fly (Perform (Dance))|OUTPUTORDER:26|
+SKILL:Handle Animal (Perform (Percussion Instruments))|OUTPUTORDER:28|
+SKILL:Handle Animal (Perform (Wind Instruments))|OUTPUTORDER:29|
+SKILL:Heal|OUTPUTORDER:30|
+SKILL:Intimidate|OUTPUTORDER:32|
+SKILL:Intimidate (Perform (Comedy))|OUTPUTORDER:33|
+SKILL:Intimidate (Perform (Keyboard Instruments))|OUTPUTORDER:34|
+SKILL:Intimidate (Perform (Percussion Instruments))|OUTPUTORDER:35|
+SKILL:Knowledge (Dungeoneering)|OUTPUTORDER:36|CLASSBOUGHT:[CLASS:Rogue|RANKS:2.0|COST:1|CLASSSKILL:Y]
+SKILL:Knowledge (Untrained)|OUTPUTORDER:37|
+SKILL:Linguistics|OUTPUTORDER:38|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]|ASSOCIATEDDATA:Read Lips
+SKILL:Perception|OUTPUTORDER:40|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Perform (Dance)|OUTPUTORDER:41|CLASSBOUGHT:[CLASS:Rogue|RANKS:3.0|COST:1|CLASSSKILL:Y]
+SKILL:Perform (Untrained)|OUTPUTORDER:42|
+SKILL:Profession (Untrained)|OUTPUTORDER:44|
+SKILL:Ride|OUTPUTORDER:45|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:N]
+SKILL:Samurai Mount|OUTPUTORDER:46|
+SKILL:Sense Motive|OUTPUTORDER:47|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Sense Motive (Perform (Oratory))|OUTPUTORDER:48|
+SKILL:Sense Motive (Perform (Sing))|OUTPUTORDER:49|
+SKILL:Sleight of Hand|OUTPUTORDER:51|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Stealth|OUTPUTORDER:53|CLASSBOUGHT:[CLASS:Rogue|RANKS:4.0|COST:1|CLASSSKILL:Y]
+SKILL:Survival|OUTPUTORDER:54|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:N]
+SKILL:Swim|OUTPUTORDER:55|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]
+SKILL:Untrained Charisma|OUTPUTORDER:56|
+SKILL:Untrained Dexterity|OUTPUTORDER:57|
+SKILL:Untrained Intelligence|OUTPUTORDER:58|
+SKILL:Untrained Strength|OUTPUTORDER:59|
+SKILL:Untrained Wisdom|OUTPUTORDER:60|
+SKILL:Untrained ~ Disable Device|OUTPUTORDER:21|
+SKILL:Untrained ~ Handle Animal|OUTPUTORDER:27|
+SKILL:Untrained ~ Linguistics|OUTPUTORDER:39|
+SKILL:Untrained ~ Sleight of Hand|OUTPUTORDER:50|
+SKILL:Untrained ~ Spellcraft|OUTPUTORDER:52|
+SKILL:Untrained ~ Use Magic Device|OUTPUTORDER:62|
+SKILL:Use Magic Device|OUTPUTORDER:61|CLASSBOUGHT:[CLASS:Rogue|RANKS:1.0|COST:1|CLASSSKILL:Y]
 
 # Character Languages
 LANGUAGE:Common|LANGUAGE:Draconic|LANGUAGE:Elven|LANGUAGE:Gnome|LANGUAGE:Goblin|LANGUAGE:Orc|LANGUAGE:Read Lips|LANGUAGE:Sylvan
@@ -167,12 +171,18 @@ ABILITY:Favored Class|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Rogue|TYPE:Favore
 USERPOOL:Favored Class|POOLPOINTS:0.0
 ABILITY:Favored Class Bonus|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Favored Class Bonus ~ Hit Point|APPLIEDTO:,,,|TYPE:FavoredClassBonus
 USERPOOL:Favored Class Bonus|POOLPOINTS:0.0
-ABILITY:Rogue Talent|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Rogue Talent ~ Finesse Rogue|TYPE:RogueClassFeatures.SpecialQuality.Extraordinary.RogueTalent|DESC:You gain Weapon Finesse as a bonus feat.
-ABILITY:Rogue Talent|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Rogue Talent ~ Slow Reactions|TYPE:RogueClassFeatures.SpecialQuality.Extraordinary.RogueTalent|DESC:Opponents damaged by your sneak attack can't make attacks of opportunity for 1 round.
-USERPOOL:Rogue Talent|POOLPOINTS:0.0
+ABILITY:Rogue Class Selection|TYPE:NORMAL|CATEGORY:Class|KEY:Rogue ~ Unchained Class|TYPE:Rogue Class Selection.ALTROGUECHOICE
+USERPOOL:Rogue Class Selection|POOLPOINTS:0.0
 ABILITY:Traits|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Trait ~ Child of the Streets|TYPE:Trait.BasicTrait.SocialTrait|DESC:You grew up on the streets of a large city, and as a result you have developed a knack for picking pockets and hiding small objects on your person. You gain a +1 trait bonus on Sleight of Hand checks, and Sleight of Hand is always a class skill for you.
 ABILITY:Traits|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Trait ~ Dirty Fighter|TYPE:Trait.BasicTrait.CombatTrait|DESC:You wouldn't have lived to make it out of childhood without the aid of a sibling, friend, or companion on whom you could always count to distract your enemies long enough to do a little bit more damage than normal. When you hit a foe you are flanking, you deal an additional 1 point of damage (this damage is added to your base damage, and is multiplied on a critical hit). This additional damage is a trait bonus.
 USERPOOL:Traits|POOLPOINTS:0.0
+ABILITY:Unchained Rogue Finesse Damage Choice|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Unchained Rogue ~ Finesse Training Choice|APPLIEDTO:Dagger|TYPE:Unchained Rogue Finesse Damage Choice.SpecialQuality.Extraordinary|DESC:Dexterity to Damage with %1&pipe;%LIST
+USERPOOL:Unchained Rogue Finesse Damage Choice|POOLPOINTS:0.0
+ABILITY:Unchained Rogue Talent|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Unchained Rogue Talent ~ Slow Reactions|TYPE:SpecialQuality.Extraordinary.Unchained Rogue Talent|DESC:Opponents damaged by your sneak attack can't make attacks of opportunity for 1 round.
+ABILITY:Unchained Rogue Talent|TYPE:NORMAL|CATEGORY:Special Ability|KEY:Unchained Rogue Talent ~ Weapon Training|TYPE:SpecialQuality.Extraordinary.Unchained Rogue Talent|DESC:You gain Weapon Focus as a bonus feat.
+USERPOOL:Unchained Rogue Talent|POOLPOINTS:0.0
+ABILITY:Weapon Training|TYPE:NORMAL|CATEGORY:FEAT|KEY:Weapon Focus|APPLIEDTO:Dagger|TYPE:Combat.WeaponFocus.OracleWeaponMastery|DESC:You are especially good at using your chosen weapon.
+USERPOOL:Weapon Training|POOLPOINTS:0.0
 
 # Character Weapon proficiencies
 WEAPONPROF:[WEAPON:Battle Aspergillum|WEAPON:Bayonet|WEAPON:Blowgun|WEAPON:Boar Spear|WEAPON:Brass Knuckles|WEAPON:Cestus|WEAPON:Club|WEAPON:Crossbow (Hand)|WEAPON:Crossbow (Heavy)|WEAPON:Crossbow (Light)]
