@@ -17,7 +17,7 @@
   "socket": false,
   "url": "https://github.com/chrisesharp/foundryvtt-owb-ponteville",
   "manifest": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-ponteville/master/world.json",
-  "download": "https://github.com/chrisesharp/foundryvtt-owb-ponteville/blob/main/package/owb-ponteville-v1.0.1.zip",
+  "download": "https://raw.githubusercontent.com/chrisesharp/foundryvtt-owb-ponteville/master/package/owb-ponteville-v1.0.1.zip",
   "license": "",
   "readme": "",
   "bugs": "",
